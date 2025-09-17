@@ -1,15 +1,4 @@
-# icep1 <!DOCTYPE html>
-<html>
-<head>
-  <meta http-equiv="refresh" content="0; url=https://huggingface.co/spaces/franklinm6081/ICEP" />
-  <title>ICEP</title>
-</head>
-<body>
-  <h1>Redirecting to ICEP...</h1>
-  <p>If you are not redirected automatically, 
-     <a href="https://huggingface.co/spaces/franklinm6081/ICEP">click here</a>.
-  </p>
-</body>
-</html>
-
- 
+- 📄 *PDF Report:* [project1.pdf](project1.pdf)
+- 📓 *app.py.ipynb Notebook:* [healthai.ipynb](healthai.ipynb)
+- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/RAJASEKAR1/health-ai1)
+- 🎥 *Demo Video:* [Watch here](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo.vedio.1.1.mp4)
