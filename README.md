@@ -1,4 +1,4 @@
 - 📄 *PDF Report:* [project1.pdf](CACS (1).pdf)
 - 📓 *app.py.ipynb Notebook:* [CACS.ipynb](intelligent_citizen_engagement_platform.ipynb)
-- 🤖 *Live Hugging Face:* [Health-AI1 Space](https://huggingface.co/spaces/franklinm6081/ICEP)
-- 🎥 *Demo Video:* [Watch here](https://github.com/23ucs580-spec/HEALTHI-AI-222003/releases/download/v1.0.0/demo.vedio.1.1.mp4)
+- 🤖 *Live Hugging Face:* [CACS Space](https://huggingface.co/spaces/franklinm6081/ICEP)
+- 🎥 *Demo Video:* [Watch here](https://drive.google.com/file/d/1FHqhSkOEJXiYsohvhTslHjsi7gVBq7Cw/view?usp=drivesdk)
